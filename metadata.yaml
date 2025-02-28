@@ -1,5 +1,8 @@
 _repo: Willem-Janszoon-Blaeu-1571-1638-b-a-sketch-of-his-life-and-work-with-an-especial-reference-to__75272
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75272-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Edward Luther
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '40340'
     url: http://www.gutenberg.org/2009/agents/40340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75272#Willem-Janszoon-Blaeu-1571-1638-b-a-sketch-of-his-life-and-work-with-an-especial-reference-to_
 gutenberg_issued: '2025-02-01'
 gutenberg_type: Text
 identifiers:
